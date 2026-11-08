@@ -1,6 +1,6 @@
 # SCRF
 
-This repository implements SCRF for multi-modal knowledge graph completion on DB15K, MKG-W, and MKG-Y. The model combines relation-aware modality representations, structure-guided gated fusion, and knowledge distillation from the structural branch to the visual and textual branches.
+This repository implements SCRF for multi-modal knowledge graph completion (一种结构感知蒸馏的多模态知识图谱补全方法).
 
 ## Code Structure
 
@@ -92,4 +92,4 @@ python -u train.py --dataset MKG-Y --device cuda:0 --output-dir runs/MKG-Y
 
 ## Acknowledgements
 
-This implementation builds on the TuckER decoder used by [ROAD](https://github.com/binchen4110/ROAD). Dataset download instructions are provided by [MoMoK](https://github.com/zjukg/MoMoK#-data-preparation). We thank the authors for making their code and dataset resources available.
+Dataset download instructions are provided by [MoMoK](https://github.com/zjukg/MoMoK#-data-preparation). We thank the authors for making their code and dataset resources available.
