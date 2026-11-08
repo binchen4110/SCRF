@@ -1,6 +1,6 @@
 # SCRF
 
-This repository implements SCRF for multi-modal knowledge graph completion 
+This repository provides the official implementation of **SCRF**, a structure-aware distillation framework for multimodal knowledge graph completion.
 (一种结构感知蒸馏的多模态知识图谱补全方法).
 
 ## Code Structure
