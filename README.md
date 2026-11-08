@@ -1,6 +1,7 @@
 # SCRF
 
-This repository implements SCRF for multi-modal knowledge graph completion (一种结构感知蒸馏的多模态知识图谱补全方法).
+This repository implements SCRF for multi-modal knowledge graph completion 
+(一种结构感知蒸馏的多模态知识图谱补全方法).
 
 ## Code Structure
 
